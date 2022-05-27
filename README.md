@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Discott
 - 👀 I’m interested in Wikipedia and stuff.
-- 🌱 I’m currently learning java, R, Python, Blender, and Android Studio.
+- 🌱 I’m currently learning java, R, Python, Blender, Unreal, and Android Studio.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at (https://en.wikipedia.org/wiki/User:Discott)
 
